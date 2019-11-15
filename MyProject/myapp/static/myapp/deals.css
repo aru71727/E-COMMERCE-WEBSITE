@@ -1,0 +1,138 @@
+*{
+margin: 0px;
+padding:0px;
+}
+#wrapper{
+
+height: auto;
+background-color:blue;
+width: 100%
+margin-top: 0px;
+}
+
+	  .div1{
+	  height:80px;
+	  background-color:black;
+	  width:100%;
+      margin-top: 0px; 
+	  color: white;
+	  font-family: verdana;
+	  font-style: none;
+	 }
+	#wrap2{
+	height: auto;
+    width: 100%
+	background-color: pink;
+	}
+	#wrap {
+    height: auto;
+    background-color: #E5E4E2;
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-right: 40px;
+    }
+    .heading1{
+    padding-top:90px;
+    margin-left: 80px;
+    color: black;
+    font-family: cursive;
+    height:50px;
+    margin-top:0px;
+    }
+    .heading2{
+    margin-top: 80px;
+    margin-left: 80px;
+    font-family: cursive;
+    height:50px;
+    }
+    
+    .card{
+    height: 415px;
+    width: 270px;
+    background-color: #E5E4E2;
+    border: 0px;
+    //margin-top: 50px;
+    //margin-left: 110px;
+    display: inline-block;
+    font-family: cursive;
+    }
+    .cards{
+    height: 340px;
+    width: 270px;
+   // background-color: black;
+    margin-top: 50px;
+    margin-left: 115px;
+    display: inline-block;   
+    border-radius:20px 20px 20px 20px; 
+    }
+    .divim{
+    height: 250px;
+    width: 270px;
+    background-color: red;
+    border-radius:20px 20px 20px 20px;
+    }
+    .about{
+    width: 270px;
+    height: 130px;
+    background-color: white;
+    border-radius:0px 0px 20px 20px;
+    margin-top: 5px;
+    }
+    .about2{
+    height: 160px;
+    width: 220px;
+    margin-left: 10px;
+    border-radius:0px 0px 20px 20px;
+    }
+    .contain{
+    height:30px;
+    width: 250px;
+    margin-left: 0px;
+    border-radius:0px 0px 20px 20px;
+    }
+    .title{
+    float:left;
+    height: 30px;
+    width: 240px;    
+    }
+    .pri{
+    height: 30px;
+    width: 60px;
+    float: right;
+    }
+    .control{
+    height: 30px;
+    width: 230px;
+    margin-top: -15px;
+    margin-left: 10px;
+    }
+    .cart{
+    width:100px;
+    height:30px;
+    border-radius:10px 10px 10px 10px;
+    background-color:green;
+    color:white;
+    border:1px solid white;
+    }
+
+    menu{
+    //position: fixed;
+    width: 100%;
+    line-height: 60px;
+    margin-top: 500px;
+    }
+    menu ul{
+    float :left;
+    margin: 0px;
+    padding-left: 42px;
+    }
+    menu ul li{
+    display :inline-block;
+    padding: 16px 32px;
+    }
+    menu ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+
+    }
